@@ -1,0 +1,10 @@
+org\friendassessment\ambulance\Ambulance.class
+org\friendassessment\ambulance\EmergencyCase.class
+org\friendassessment\ambulance\AmbulancePhase.class
+org\friendassessment\ambulance\App.class
+org\friendassessment\ambulance\PriorityLevel.class
+org\friendassessment\ambulance\HistoryEntry.class
+org\friendassessment\ambulance\DispatchException.class
+org\friendassessment\ambulance\RequestPhase.class
+org\friendassessment\ambulance\AmbulanceCategory.class
+org\friendassessment\ambulance\EmergencyDispatcher.class

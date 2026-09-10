@@ -1,0 +1,1 @@
+package org.friendassessment.ambulance; public enum PriorityLevel { CRITICAL(4), HIGH(3), MODERATE(2), NORMAL(1); private final int value; PriorityLevel(int value){this.value=value;} public int value(){return value;} }
